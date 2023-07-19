@@ -10,7 +10,7 @@
 <How we expect the user to use this content>
 
 ___
-<john.doe@databricks.com>
+<jwalker@monad.com>
 
 ___
 
