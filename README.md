@@ -5,9 +5,16 @@
 
 ## Business Problem
 <List of the business use case the solution accelerator address>
+Today, the average Fortune 500 company manages over 40+ cybersecurity vendors. The sheer number of enterprise cybersecurity toolsets, each capturing and generating its own data, creates significant data management and data engineering challenges for all enterprises. Because each of these security tools has separate logs, outputs, and databases, it prevents any security team from meaningfully understanding their overall security posture and using their own data effectively.
+
 
 ## Scope
 <How we expect the user to use this content>
+Show how treating cybersecurity as a data management problem, and subsequently opening disparate cybersecurity data to queries can help organizations
+ - Secure their systems and data more effectively.
+ - Practitioners will walk away understanding the value of modeled and organized security on a data warehouse
+ - Leverage real-world data that shows how Databricks Security Lake can help solve vulnerability management and end-to-end workflows for security practitioners.
+
 
 ___
 <jwalker@monad.com>
