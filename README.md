@@ -5,7 +5,7 @@
 
 ## Business Problem
 <List of the business use case the solution accelerator address>
-Today, the average Fortune 500 company manages over 40+ cybersecurity vendors. The sheer number of enterprise cybersecurity toolsets, each capturing and generating its own data, creates significant data management and data engineering challenges for all enterprises. Because each of these security tools has separate logs, outputs, and databases, it prevents any security team from meaningfully understanding their overall security posture and using their own data effectively.
+Today, the average Fortune 1000 company manages over 40+ cybersecurity vendors. The sheer number of enterprise cybersecurity toolsets, each capturing and generating its own data, creates significant data management and data engineering challenges for all enterprises. Because each of these security tools has separate logs, outputs, and databases, it prevents any security team from meaningfully understanding their overall security posture and using their own data effectively.
 
 
 ## Scope
